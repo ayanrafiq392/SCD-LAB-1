@@ -9,7 +9,10 @@ public class myjavaproject{
 		System.out.println("Now i am trying pull option");
 	
 		// updating the feature to try merge option
+
+		// now doing pull and merge option
 	}
 
 }
+
 
